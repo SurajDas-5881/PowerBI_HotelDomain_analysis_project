@@ -1,6 +1,5 @@
 # PowerBI_HotelDomain_analysis_project
 This is  an hotel domain analysis project made by me and i have used the data set and files from codebasics and then started my project a big shout out to the codebasic team.
-
 **Ploblem Statement**:
  Edge group hotel of are having hotels across the main cities of india as mumbai,hydrabad,banglore,Delhi.
  The hotel's management is little bit worry about their business because there is some revenue decline this current year
